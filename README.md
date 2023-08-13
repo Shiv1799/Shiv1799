@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiv1799&label=Profile%20views&color=0e75b6&style=flat" alt="shiv1799" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiv1799" alt="shiv1799" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/Shiv1799](https://github.com/Shiv1799)
 
 - 📫 How to reach me **tiwari@rptu.de**
